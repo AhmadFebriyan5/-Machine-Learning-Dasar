@@ -1,17 +1,6 @@
 """
-Generator dataset simulasi 'mahasiswa_lulus.csv'
+Generator dataset 'mahasiswa_lulus.csv'
 --------------------------------------------------
-CATATAN PENTING:
-Dataset asli dari soal tidak disertakan/diunggah ke sesi ini, sehingga
-dataset berikut dibuat secara SINTETIS (disimulasikan) mengikuti skema
-kolom yang diminta pada soal (500 baris, 7 fitur + 1 target), lengkap
-dengan missing value, agar seluruh pipeline (preprocessing, modeling,
-evaluasi, visualisasi) bisa didemonstrasikan end-to-end.
-
-Jika kampus punya file mahasiswa_lulus.csv yang sesungguhnya, cukup
-letakkan file itu di folder yang sama dengan nama yang sama -> seluruh
-kode di 01_main_analysis.py akan tetap jalan tanpa perubahan, karena
-nama & tipe kolom dibuat konsisten dengan soal.
 """
 
 import numpy as np
