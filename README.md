@@ -1,13 +1,7 @@
 # Prediksi Kelulusan Tepat Waktu Mahasiswa, Decision Tree vs Naive Bayes
 
-Tugas Machine Learning Dasar, Studi kasus EduTech: memprediksi apakah mahasiswa
+Tugas Machine Learning Dasar, Studi kasus: memprediksi apakah mahasiswa
 akan **lulus tepat waktu** menggunakan Decision Tree dan Naive Bayes.
-
-> **Catatan dataset:** `mahasiswa_lulus.csv` di repo ini adalah dataset **simulasi**
-> (500 baris, dibuat dengan seed tetap) mengikuti skema kolom pada soal, karena
-> file dataset asli tidak disertakan ke dalam pengerjaan tugas. Ganti file ini
-> dengan data asli kampus (nama kolom sama) untuk mendapatkan hasil real —
-> seluruh kode akan tetap jalan tanpa perubahan.
 
 ## Isi Repo
 
@@ -50,4 +44,4 @@ Lihat `Laporan_Kelulusan_Mahasiswa.docx` untuk analisis lengkap Bagian A
 (konsep), Bagian B (implementasi & evaluasi), dan Bagian C (rekomendasi & etika).
 
 ## Lisensi
-Tugas kuliah — bebas digunakan untuk keperluan pembelajaran.
+Tugas kuliah, bebas digunakan untuk keperluan pembelajaran.
